@@ -2,7 +2,7 @@ package Assessment1;
 
 /**
  * Created by Donal ON 24/04/2019
- * COMMENTS ON THE PROGRAM GO HERE
+ * Test class
  */
 public class TestAnimal {
    public static void main(String[] args) {
