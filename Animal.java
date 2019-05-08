@@ -1,4 +1,4 @@
-package Assessment1;
+package animal-lion-stuff;
 
 /**
  * Created by Donal ON 24/04/2019
